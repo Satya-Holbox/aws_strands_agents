@@ -1,0 +1,5 @@
+.env
+.venv/
+gmail-sub-agent/config/
+gmail-sub-agent/src/__pycache__
+gmail-sub-agent/config/credentials.json
